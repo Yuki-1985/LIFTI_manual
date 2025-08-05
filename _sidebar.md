@@ -1,0 +1,3 @@
+- [ホーム](/README.md)
+- [初期設定](/setup.md)
+- [FAQ](/faq.md)
