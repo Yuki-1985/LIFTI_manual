@@ -2,7 +2,7 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'keiri',
+      id: 'intro',
       label: 'ホーム',
     },
     {
