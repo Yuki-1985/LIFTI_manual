@@ -2,7 +2,7 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'intro', // これは docs/intro.md のファイルと一致しているか？
+      id: 'intro',
       label: 'ホーム',
     },
     {
